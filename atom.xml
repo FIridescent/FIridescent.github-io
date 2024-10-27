@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>F&#39;s Personal Blog Web</title>
+  
+  <subtitle>FIridescent</subtitle>
+  <link href="http://firidescent.site/atom.xml" rel="self"/>
+  
+  <link href="http://firidescent.site/"/>
+  <updated>2024-10-26T16:04:45.844Z</updated>
+  <id>http://firidescent.site/</id>
+  
+  <author>
+    <name>Fu Dongsheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个自我介绍及这个自建Blog的来由</title>
+    <link href="http://firidescent.site/2024/10/26/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://firidescent.site/2024/10/26/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</id>
+    <published>2024-10-26T15:00:48.727Z</published>
+    <updated>2024-10-26T16:04:45.844Z</updated>
+    
+    <content type="html"><![CDATA[<p>我目前是个人，以后应该是人物吧。。。创建这个blog的原因呢？！目前不是很想说，做这个的目的也没有到达，现在很烦。</p><h2 id="I-am-Fu-Dongsheng"><a href="#I-am-Fu-Dongsheng" class="headerlink" title="I am Fu Dongsheng"></a>I am Fu Dongsheng</h2><h3 id="是一个初三生，一个初三的男生，相貌自我感觉还好，一个篮球爱好者，信息技术及计算机的不懈探索者、鬼知道我目前对代码的心情、无语，数码机器的鼓捣者，科学科技的忠实崇尚者，一直追求某人的追求者、不知如何、目前挺尴尬的，不忘初心的爱国主义者，日夜做梦的梦想者，努力将梦实现的实干者……"><a href="#是一个初三生，一个初三的男生，相貌自我感觉还好，一个篮球爱好者，信息技术及计算机的不懈探索者、鬼知道我目前对代码的心情、无语，数码机器的鼓捣者，科学科技的忠实崇尚者，一直追求某人的追求者、不知如何、目前挺尴尬的，不忘初心的爱国主义者，日夜做梦的梦想者，努力将梦实现的实干者……" class="headerlink" title="是一个初三生，一个初三的男生，相貌自我感觉还好，一个篮球爱好者，信息技术及计算机的不懈探索者、鬼知道我目前对代码的心情、无语，数码机器的鼓捣者，科学科技的忠实崇尚者，一直追求某人的追求者、不知如何、目前挺尴尬的，不忘初心的爱国主义者，日夜做梦的梦想者，努力将梦实现的实干者……"></a>是一个初三生，一个初三的男生，相貌自我感觉还好，一个篮球爱好者，信息技术及计算机的不懈探索者、鬼知道我目前对代码的心情、无语，数码机器的鼓捣者，科学科技的忠实崇尚者，一直追求某人的追求者、不知如何、目前挺尴尬的，不忘初心的爱国主义者，日夜做梦的梦想者，努力将梦实现的实干者……</h3><h4 id="望她能去这里看看，伤感了。"><a href="#望她能去这里看看，伤感了。" class="headerlink" title="望她能去这里看看，伤感了。"></a>望她能去<a href="https://github.com/FIridescent/-">这里</a>看看，伤感了。</h4><h2 id="First-Thank-you-Aqian-and-Xiaoyu"><a href="#First-Thank-you-Aqian-and-Xiaoyu" class="headerlink" title="First, Thank you, Aqian and Xiaoyu"></a>First, Thank you, Aqian and Xiaoyu</h2><h3 id="谢谢，给了我很多帮助。"><a href="#谢谢，给了我很多帮助。" class="headerlink" title="谢谢，给了我很多帮助。"></a>谢谢，给了我很多帮助。</h3><h2 id="The-Personal-Blog-Web-Site"><a href="#The-Personal-Blog-Web-Site" class="headerlink" title="The Personal Blog Web Site"></a>The Personal Blog Web Site</h2><h3 id="hmm，Hexo真的太棒了，据说是一个台湾省的人开发的，这个网站目前在全球影响力也很大，GitHub上的全球各路大神都有上传精致的主题，嘿嘿，白嫖太爽了，懒得自己去写，又费时间还不好看。去年我据说做一个Blog，但是碍于部分大脑层面的原因，推迟到现在，还好，终于做出来。呜呜呜，写这么个md文件还专门学个markdown语法-还花了十多块买了一个1年期的域名，但长得还算可以，有点美感，不愧是FIridescent，现在我在网络上也多以此示人，凸显我的神秘。。。也是气死，今天弄个node-js和git弄了1-2个小时，一会这报错，一会那报错，本来是想不弄了的，但是那制此Blog的目前不可告人的原因支撑着我做了出来。我知道我会把这个分享给很多人，我一面很想低调，一面又想和别人分享我的成就，又怕别人说我是B哥，我有时候真想一直呆在网上的。我渐渐变得不想说话，不想解释，不想讨好。"><a href="#hmm，Hexo真的太棒了，据说是一个台湾省的人开发的，这个网站目前在全球影响力也很大，GitHub上的全球各路大神都有上传精致的主题，嘿嘿，白嫖太爽了，懒得自己去写，又费时间还不好看。去年我据说做一个Blog，但是碍于部分大脑层面的原因，推迟到现在，还好，终于做出来。呜呜呜，写这么个md文件还专门学个markdown语法-还花了十多块买了一个1年期的域名，但长得还算可以，有点美感，不愧是FIridescent，现在我在网络上也多以此示人，凸显我的神秘。。。也是气死，今天弄个node-js和git弄了1-2个小时，一会这报错，一会那报错，本来是想不弄了的，但是那制此Blog的目前不可告人的原因支撑着我做了出来。我知道我会把这个分享给很多人，我一面很想低调，一面又想和别人分享我的成就，又怕别人说我是B哥，我有时候真想一直呆在网上的。我渐渐变得不想说话，不想解释，不想讨好。" class="headerlink" title="hmm，Hexo真的太棒了，据说是一个台湾省的人开发的，这个网站目前在全球影响力也很大，GitHub上的全球各路大神都有上传精致的主题，嘿嘿，白嫖太爽了，懒得自己去写，又费时间还不好看。去年我据说做一个Blog，但是碍于部分大脑层面的原因，推迟到现在，还好，终于做出来。呜呜呜，写这么个md文件还专门学个markdown语法,还花了十多块买了一个1年期的域名，但长得还算可以，有点美感，不愧是FIridescent，现在我在网络上也多以此示人，凸显我的神秘。。。也是气死，今天弄个node.js和git弄了1,2个小时，一会这报错，一会那报错，本来是想不弄了的，但是那制此Blog的目前不可告人的原因支撑着我做了出来。我知道我会把这个分享给很多人，我一面很想低调，一面又想和别人分享我的成就，又怕别人说我是B哥，我有时候真想一直呆在网上的。我渐渐变得不想说话，不想解释，不想讨好。"></a>hmm，<a href="https://hexo.io/">Hexo</a>真的太棒了，据说是一个台湾省的人开发的，这个网站目前在全球影响力也很大，GitHub上的全球各路大神都有上传精致的主题，嘿嘿，白嫖太爽了，懒得自己去写，又费时间还不好看。去年我据说做一个Blog，但是碍于部分大脑层面的原因，推迟到现在，还好，终于做出来。呜呜呜，写这么个md文件还专门学个markdown语法,还花了十多块买了一个1年期的域名，但长得还算可以，有点美感，不愧是FIridescent，现在我在网络上也多以此示人，凸显我的神秘。。。也是气死，今天弄个node.js和git弄了1,2个小时，一会这报错，一会那报错，本来是想不弄了的，但是那制此Blog的目前不可告人的原因支撑着我做了出来。我知道我会把这个分享给很多人，我一面很想低调，一面又想和别人分享我的成就，又怕别人说我是B哥，我有时候真想一直呆在网上的。我渐渐变得不想说话，不想解释，不想讨好。</h3><h2 id="Some-of-My-Personal-Contact-Information-or-Accounts"><a href="#Some-of-My-Personal-Contact-Information-or-Accounts" class="headerlink" title="Some of My Personal Contact Information or Accounts"></a>Some of My Personal Contact Information or Accounts</h2><h3 id="Fu11109-958218480-fds19691-FIridescent-Iridescent"><a href="#Fu11109-958218480-fds19691-FIridescent-Iridescent" class="headerlink" title="Fu11109 958218480 fds19691 FIridescent Iridescent"></a>Fu11109 958218480 fds19691 FIridescent Iridescent</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我目前是个人，以后应该是人物吧。。。创建这个blog的原因呢？！目前不是很想说，做这个的目的也没有到达，现在很烦。&lt;/p&gt;
+&lt;h2 id=&quot;I-am-Fu-Dongsheng&quot;&gt;&lt;a href=&quot;#I-am-Fu-Dongsheng&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://firidescent.site/2024/10/26/hello-world/"/>
+    <id>http://firidescent.site/2024/10/26/hello-world/</id>
+    <published>2024-10-26T09:18:17.371Z</published>
+    <updated>2024-10-26T15:00:26.287Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.(初始页)</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
